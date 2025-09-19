@@ -1,8 +1,1 @@
-node_modules
-/dist
-/dist-docs
-.DS_Store
-/docs/.vitepress/cache
-/docs/api
 
-packages/mp3-encoder/dist
